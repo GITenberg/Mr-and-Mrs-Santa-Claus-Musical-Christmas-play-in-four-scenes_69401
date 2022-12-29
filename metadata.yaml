@@ -1,11 +1,16 @@
 _repo: Mr-and-Mrs-Santa-Claus-Musical-Christmas-play-in-four-scenes_69401
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69401-h/images/cover.jpg
 creator:
   author:
     agent_name: Brunton, Maud
     gutenberg_agent_id: '55174'
     url: http://www.gutenberg.org/2009/agents/55174
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69401#Mr-and-Mrs-Santa-Claus-Musical-Christmas-play-in-four-scenes
 gutenberg_issued: '2022-11-21'
 identifiers:
   gutenberg: '69401'
